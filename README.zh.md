@@ -16,23 +16,12 @@ Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
 ## 安装
 使用SweetAlertDialog最简单的办法就是像下面这样添加项目依赖。
 
-**Maven**
 
-    <dependency>
-      <groupId>cn.pedant.sweetalert</groupId>
-      <artifactId>library</artifactId>
-      <version>1.3</version>
-      <type>aar</type>
-    </dependency>
 
 **Gradle**
 
-    repositories {
-        mavenCentral()
-    }
-
     dependencies {
-        compile 'cn.pedant.sweetalert:library:1.3'
+        compile 'cn.ziyeyouhu.android:sweet-alert-dialog:1.0'
     }
 
 ## 如何开始
